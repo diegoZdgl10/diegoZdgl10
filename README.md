@@ -53,7 +53,7 @@ Hi, I'm Diego Zamora. I'm a passionate junior programmer with a special focus on
 ## 📬 Personal contact
 - [Student GitHub profile](https://github.com/diegodgl10)
 - [Personal GitHub profile](https://github.com/diegoZdgl10)
-- [Email](diego.dgl10@ciencias.unam.mx)
+- <diego.dgl10@ciencias.unam.mx>
 
 <br>
 
