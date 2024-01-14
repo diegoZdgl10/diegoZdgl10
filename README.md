@@ -1,5 +1,13 @@
 # 👨‍💻 Jr Programmer in constant growth ....
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🎮+Press+Start+to+Program;&center=true&size=25">
+  </a>
+</h1>
+
+<img align="right" width="200" height="175" src="res/Logo.gif">
+
 Hi, I'm Diego Zamora. I'm a passionate junior programmer with a special focus on backend development, software engineering and databases. I have participated in several projects ranging from the use of Spring Boot for complete systems to the creation of 3D animations in Blender. Doing a constant use of working methods such as agile methodologies, traditional methodologies, use of programming patterns, etc, in order to get the job done in the most efficient way possible.
 
 <br>
@@ -38,14 +46,14 @@ Hi, I'm Diego Zamora. I'm a passionate junior programmer with a special focus on
 
 ## 📚 Education:
 - Microcomputer and Network Systems Maintenance Technician.
-- Last semester of the bachelor's degree in Computer Science.
+- Last semester of the bachelor's degree in [Computer Science](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/ccomputacion).
 
 <br>
 
 ## 📬 Personal contact
-- Student GitHub profile
-- Personal GitHub profile
-- Email
+- [Student GitHub profile](https://github.com/diegodgl10)
+- [Personal GitHub profile](https://github.com/diegoZdgl10)
+- [Email](diego.dgl10@ciencias.unam.mx)
 
 <br>
 
