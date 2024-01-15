@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" width="200" height="175" src="res/Logo.gif">
+<img align="right" width="128" height="128" src="res/Logo.gif">
 
 Hi, I'm Diego Zamora. I'm a passionate junior programmer with a special focus on backend development, software engineering and databases. I have participated in several projects ranging from the use of Spring Boot for complete systems to the creation of 3D animations in Blender. Doing a constant use of working methods such as agile methodologies, traditional methodologies, use of programming patterns, etc, in order to get the job done in the most efficient way possible.
 
